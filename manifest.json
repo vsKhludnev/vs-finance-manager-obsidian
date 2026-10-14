@@ -1,0 +1,11 @@
+{
+	"id": "vs-finance-manager",
+	"name": "VS Finance Manager",
+	"version": "0.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "A financial manager is on guard of your financial literacy",
+	"author": "VS",
+	"authorUrl": "https://github.com/vsKhludnev",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
